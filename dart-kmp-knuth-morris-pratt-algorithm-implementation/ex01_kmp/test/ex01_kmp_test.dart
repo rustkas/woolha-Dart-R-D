@@ -15,14 +15,10 @@ void main() {
   });
 
   test('AAAA', () {
-    final list = [];
     final text = 'AAAABBCCDDAAA';
     final pattern = 'ABAAB';
     expect(kmp(text, pattern), isList);
-    expect(kmp(text, pattern).length, list.length);
-    for (var element in list) {
-      expect(kmp(text, pattern).contains(element), isTrue);
-    }
+    expect(kmp(text, pattern).length, 0);
   });
 
   test('AAAA', () {
