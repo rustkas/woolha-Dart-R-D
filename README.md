@@ -19,3 +19,4 @@ Research and Development based on [woolha.com](https://www.woolha.com) articles.
 * [Filtering List Elements Examples](dart-filtering-list-elements-examples)
 * [Using Triple Dot (...) Spread Operator Examples](dart-using-triple-dot-spread-operator-examples)
 * [Using Null-aware Operators Examples](dart-using-null-aware-operators-examples)
+* [Converting List to Map Examples](dart-converting-list-to-map-examples)
