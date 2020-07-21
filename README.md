@@ -20,3 +20,4 @@ Research and Development based on [woolha.com](https://www.woolha.com) articles.
 * [Using Triple Dot (...) Spread Operator Examples](dart-using-triple-dot-spread-operator-examples)
 * [Using Null-aware Operators Examples](dart-using-null-aware-operators-examples)
 * [Converting List to Map Examples](dart-converting-list-to-map-examples)
+* [Dart - Pad Left and Right a String Examples](dart-pad-left-and-right-a-string-examples)
