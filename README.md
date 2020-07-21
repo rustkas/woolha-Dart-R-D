@@ -24,3 +24,4 @@ Research and Development based on [woolha.com](https://www.woolha.com) articles.
 * [Trim Whitespaces of a String Examples](dart-trim-whitespaces-of-a-string-examples)
 * [Formatting Currency with NumberFormat](dart-formatting-currency-with-numberformat)
 * [Using BigInt Examples](dart-using-bigint-examples)
+* [Measuring Elapsed Time with Stopwatch](dart-measuring-elapsed-time-with-stopwatch)
