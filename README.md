@@ -25,3 +25,5 @@ Research and Development based on [woolha.com](https://www.woolha.com) articles.
 * [Formatting Currency with NumberFormat](dart-formatting-currency-with-numberformat)
 * [Using BigInt Examples](dart-using-bigint-examples)
 * [Measuring Elapsed Time with Stopwatch](dart-measuring-elapsed-time-with-stopwatch)
+* [Calculate Hash Digest (MD5, SHA1, SHA256, SHA512, etc.)](dart-calculate-hash-digest-examples)
+* [Generate HMAC Signature (MD5, SHA1, SHA256, SHA512, etc.)](dart-generate-hmac-signature-examples)
