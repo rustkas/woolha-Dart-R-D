@@ -23,3 +23,4 @@ Research and Development based on [woolha.com](https://www.woolha.com) articles.
 * [Dart - Pad Left and Right a String Examples](dart-pad-left-and-right-a-string-examples)
 * [Trim Whitespaces of a String Examples](dart-trim-whitespaces-of-a-string-examples)
 * [Formatting Currency with NumberFormat](dart-formatting-currency-with-numberformat)
+* [Using BigInt Examples](dart-using-bigint-examples)
