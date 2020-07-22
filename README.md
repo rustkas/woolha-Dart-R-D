@@ -34,3 +34,6 @@ Research and Development based on [woolha.com](https://www.woolha.com) articles.
 * [Creating Custom Exception Class](dart-creating-custom-exception-class)
 * [Round Number (Double) to N Decimal Places Precision](dart-round-number-double-to-n-decimal-places-precision)
 * [Convert Double to Int And Vice Versa](dart-convert-double-to-int-and-vice-versa)
+* [Using StringBuffer Examples](dart-using-stringbuffer-examples)
+* [Converting Radian To Degree & Vice Versa](dart-converting-radian-to-degree-vice-versa)
+
