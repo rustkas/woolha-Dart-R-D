@@ -33,4 +33,4 @@ Research and Development based on [woolha.com](https://www.woolha.com) articles.
 * [Using and Retrieving Custom Metadata Annotation](dart-using-and-retrieving-metadata-annotation)
 * [Creating Custom Exception Class](dart-creating-custom-exception-class)
 * [Round Number (Double) to N Decimal Places Precision](dart-round-number-double-to-n-decimal-places-precision)
-
+* [Convert Double to Int And Vice Versa](dart-convert-double-to-int-and-vice-versa)
