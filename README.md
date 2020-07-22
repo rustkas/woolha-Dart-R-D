@@ -27,3 +27,4 @@ Research and Development based on [woolha.com](https://www.woolha.com) articles.
 * [Measuring Elapsed Time with Stopwatch](dart-measuring-elapsed-time-with-stopwatch)
 * [Calculate Hash Digest (MD5, SHA1, SHA256, SHA512, etc.)](dart-calculate-hash-digest-examples)
 * [Generate HMAC Signature (MD5, SHA1, SHA256, SHA512, etc.)](dart-generate-hmac-signature-examples)
+* [Using Access Modifiers (Private & Public)](dart-using-access-modifiers-private-public)
