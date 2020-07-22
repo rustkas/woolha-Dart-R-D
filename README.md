@@ -29,5 +29,5 @@ Research and Development based on [woolha.com](https://www.woolha.com) articles.
 * [Generate HMAC Signature (MD5, SHA1, SHA256, SHA512, etc.)](dart-generate-hmac-signature-examples)
 * [Using Access Modifiers (Private & Public)](dart-using-access-modifiers-private-public)
 * [Getting Runtime Type of Object](dart-getting-runtime-type-of-object)
-
+* [Dart UTF-8, UTF-16, UTF-32 Encoding & Decoding Examples](dart-utf-8-utf-16-utf-32-encoding-decoding-examples)
 
