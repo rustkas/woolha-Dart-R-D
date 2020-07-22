@@ -31,3 +31,6 @@ Research and Development based on [woolha.com](https://www.woolha.com) articles.
 * [Getting Runtime Type of Object](dart-getting-runtime-type-of-object)
 * [Dart UTF-8, UTF-16, UTF-32 Encoding & Decoding Examples](dart-utf-8-utf-16-utf-32-encoding-decoding-examples)
 * [Using and Retrieving Custom Metadata Annotation](dart-using-and-retrieving-metadata-annotation)
+* [Creating Custom Exception Class](dart-creating-custom-exception-class)
+* [Round Number (Double) to N Decimal Places Precision](dart-round-number-double-to-n-decimal-places-precision)
+
