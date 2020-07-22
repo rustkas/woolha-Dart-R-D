@@ -31,6 +31,7 @@ Research and Development based on [woolha.com](https://www.woolha.com) articles.
 * [Getting Runtime Type of Object](src/dart-getting-runtime-type-of-object)
 * [Dart UTF-8, UTF-16, UTF-32 Encoding & Decoding Examples](src/dart-utf-8-utf-16-utf-32-encoding-decoding-examples)
 * [Using and Retrieving Custom Metadata Annotation](src/dart-using-and-retrieving-metadata-annotation)
+* [Getting List of Fields and Methods in a Class](src/dart-getting-list-of-fields-and-methods-in-a-class)
 * [Creating Custom Exception Class](src/dart-creating-custom-exception-class)
 * [Round Number (Double) to N Decimal Places Precision](src/dart-round-number-double-to-n-decimal-places-precision)
 * [Convert Double to Int And Vice Versa](src/dart-convert-double-to-int-and-vice-versa)
